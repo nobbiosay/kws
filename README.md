@@ -21,3 +21,9 @@ npm run preview
 2. Import repo ke Vercel → framework Vite autodetect.
 3. Build Command: `npm run build`, Output: `dist`.
 4. File `vercel.json` sudah menambahkan SPA fallback.
+
+
+## v2
+- UI tema baru (gradient + glassmorphism)
+- Animasi mikro pada card/tabel/tombol
+- Halaman WTP menampilkan hasil input lengkap via modal 'Detail'
